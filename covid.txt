@@ -1,0 +1,4 @@
+Name: Social 
+Surname: Distancing
+Address: 21 Lockdown Street
+Email: socialdistancing@corona.com
